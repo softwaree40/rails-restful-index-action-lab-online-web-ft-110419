@@ -1,4 +1,4 @@
 class Student < ActiveRecord::Base
     
-    @student = Student.all 
+    @students = Student.all 
 end
